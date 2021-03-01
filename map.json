@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ph-freiburg.de\/fileadmin\/dateien\/fakultaet2\/kunst\/spielmann\/bilder\/info_karte_campus.gif"
+                 "value":"https:\/\/raw.githubusercontent.com\/RaphaelSpielmann\/campus\/master\/bilder\/info_karte_campus.gif"
                 }],
          "type":"tilelayer",
          "visible":true,
